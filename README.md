@@ -1,2 +1,3 @@
 # FoodNoFood
-Full Stack ML Web Application
+
+Full Stack ML Web Application hosted
