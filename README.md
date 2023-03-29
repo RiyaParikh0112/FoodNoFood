@@ -1,3 +1,3 @@
 # FoodNoFood
 
-Full Stack ML Web Application hosted
+Full Stack ML Web Application using TensorFLow JS
